@@ -5,6 +5,8 @@ public class classeTest {
 		// TODO Auto-generated constructor stub
 		
 		System.out.println("Bonjour !!!");
+	
+		
 	}
 
 }
